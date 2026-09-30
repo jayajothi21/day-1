@@ -1,5 +1,4 @@
 # day-1
 LED Blinking
 
-
-jayajothi21/ESP32-Blink-Challenge
+https://wokwi.com/projects/476380788404615169
